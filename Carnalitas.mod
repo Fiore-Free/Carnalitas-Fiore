@@ -6,4 +6,4 @@ tags={
 }
 name="Carnalitas"
 supported_version="1.7.*"
-path="Documents/Paradox Interactive/Crusader Kings III/mod/Carnalitas"
+path="mod/Carnalitas"
